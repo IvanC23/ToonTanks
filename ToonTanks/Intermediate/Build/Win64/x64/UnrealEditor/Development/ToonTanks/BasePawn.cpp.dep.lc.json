@@ -11,7 +11,9 @@
             "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
             "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
             "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
-            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\capsulecomponent.generated.h"
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\capsulecomponent.generated.h",
+            "c:\\users\\crusc\\documents\\github\\toontanks\\toontanks\\source\\toontanks\\projectile.h",
+            "c:\\users\\crusc\\documents\\github\\toontanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\projectile.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

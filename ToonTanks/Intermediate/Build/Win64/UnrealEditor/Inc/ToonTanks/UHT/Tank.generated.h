@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define TOONTANKS_Tank_generated_h
 
-#define FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_13_INCLASS_NO_PURE_DECLS \
+#define FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesATank(); \
 	friend struct Z_Construct_UClass_ATank_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(ATank)
 
 
-#define FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_13_ENHANCED_CONSTRUCTORS \
+#define FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ATank(ATank&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~ATank();
 
 
-#define FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_10_PROLOG
-#define FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_13_GENERATED_BODY \
+#define FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_9_PROLOG
+#define FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_13_INCLASS_NO_PURE_DECLS \
-	FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_13_ENHANCED_CONSTRUCTORS \
+	FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
