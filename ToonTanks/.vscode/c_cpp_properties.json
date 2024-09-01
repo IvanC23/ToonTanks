@@ -1,0 +1,60 @@
+{
+    "configurations": [
+        {
+            "name": "ToonTanksEditor Editor Win64 Development (ToonTanks)",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\crusc\\Documents\\GitHub\\ToonTanks\\ToonTanks\\.vscode\\compileCommands_ToonTanks.json",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "c:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/**"
+            ]
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\crusc\\Documents\\GitHub\\ToonTanks\\ToonTanks\\.vscode\\compileCommands_Default.json",
+            "includePath": [
+                "${default}",
+                "C:/Unreal/UE_5.4/Engine/Source/Runtime/Core/Public"
+            ]
+        },
+        {
+            "name": "UnrealEngine",
+            "includePath": [
+                "c:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/**",
+                "C:/Unreal/UE_5.4/Engine/Source/Runtime/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22000.0",
+            "compilerPath": "cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64",
+            "mergeConfigurations": true,
+            "browse": {
+                "path": [
+                    "c:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/**",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
