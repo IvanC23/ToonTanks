@@ -9,7 +9,8 @@
 				"C:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/Content/Maps/Main.umap",
 				"C:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset",
 				"C:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset",
-				"C:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset"
+				"C:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset",
+				"C:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/Content/Blueprints/GameMode/BP_ToonTanksGameMode.uasset"
 			]
 		}
 	]
