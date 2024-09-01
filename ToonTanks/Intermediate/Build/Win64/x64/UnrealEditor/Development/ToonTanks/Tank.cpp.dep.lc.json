@@ -9,7 +9,11 @@
             "c:\\users\\crusc\\documents\\github\\toontanks\\toontanks\\source\\toontanks\\tank.h",
             "c:\\users\\crusc\\documents\\github\\toontanks\\toontanks\\source\\toontanks\\basepawn.h",
             "c:\\users\\crusc\\documents\\github\\toontanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\basepawn.generated.h",
-            "c:\\users\\crusc\\documents\\github\\toontanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tank.generated.h"
+            "c:\\users\\crusc\\documents\\github\\toontanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tank.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\springarmcomponent.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

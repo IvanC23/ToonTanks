@@ -6,16 +6,23 @@
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\crusc\\Documents\\GitHub\\ToonTanks\\ToonTanks\\.vscode\\compileCommands_ToonTanks.json",
-            "mergeConfigurations": false,
+            "compileCommands": "C:\\Users\\crusc\\Documents\\GitHub\\ToonTanks\\ToonTanks\\.vscode\\compileCommands_Default.json",
+            "mergeConfigurations": true,
             "browse": {
                 "path": [
-                    "${workspaceFolder}"
+                    "${workspaceFolder}",
+                    "C:/Unreal/UE_5.4/Engine/Source/**"
                 ],
                 "limitSymbolsToIncludedHeaders": true
             },
             "includePath": [
-                "c:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/**"
+                "${workspaceFolder}/**",
+                "C:/Unreal/UE_5.4/Engine/Source/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
             ]
         },
         {
