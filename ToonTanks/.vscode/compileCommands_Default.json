@@ -118,5 +118,21 @@
 			"@C:\\Users\\crusc\\Documents\\GitHub\\ToonTanks\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
 		],
 		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\crusc\\Documents\\GitHub\\ToonTanks\\ToonTanks\\Source\\ToonTanks\\ToonTanksPlayerController.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\crusc\\Documents\\GitHub\\ToonTanks\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\crusc\\Documents\\GitHub\\ToonTanks\\ToonTanks\\Source\\ToonTanks\\ToonTanksPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\crusc\\Documents\\GitHub\\ToonTanks\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.4\\Engine\\Source"
 	}
 ]

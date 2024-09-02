@@ -11,7 +11,16 @@
             "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
             "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
             "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
-            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h"
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
