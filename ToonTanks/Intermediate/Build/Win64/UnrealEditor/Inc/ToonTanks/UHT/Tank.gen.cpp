@@ -116,10 +116,10 @@ ATank::~ATank() {}
 struct Z_CompiledInDeferFile_FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ATank, ATank::StaticClass, TEXT("ATank"), &Z_Registration_Info_UClass_ATank, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATank), 2401460230U) },
+		{ Z_Construct_UClass_ATank, ATank::StaticClass, TEXT("ATank"), &Z_Registration_Info_UClass_ATank, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATank), 3447995476U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_3868741365(TEXT("/Script/ToonTanks"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_922894387(TEXT("/Script/ToonTanks"),
 	Z_CompiledInDeferFile_FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_crusc_Documents_GitHub_ToonTanks_ToonTanks_Source_ToonTanks_Tank_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

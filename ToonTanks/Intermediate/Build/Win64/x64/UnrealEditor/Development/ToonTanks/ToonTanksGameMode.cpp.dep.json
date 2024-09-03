@@ -26,7 +26,9 @@
             "c:\\users\\crusc\\documents\\github\\toontanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\basepawn.generated.h",
             "c:\\users\\crusc\\documents\\github\\toontanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tank.generated.h",
             "c:\\users\\crusc\\documents\\github\\toontanks\\toontanks\\source\\toontanks\\tower.h",
-            "c:\\users\\crusc\\documents\\github\\toontanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tower.generated.h"
+            "c:\\users\\crusc\\documents\\github\\toontanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tower.generated.h",
+            "c:\\users\\crusc\\documents\\github\\toontanks\\toontanks\\source\\toontanks\\toontanksplayercontroller.h",
+            "c:\\users\\crusc\\documents\\github\\toontanks\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\toontanksplayercontroller.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

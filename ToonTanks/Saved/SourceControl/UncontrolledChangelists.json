@@ -13,7 +13,9 @@
 				"C:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/Content/Blueprints/GameMode/BP_ToonTanksGameMode.uasset",
 				"C:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/Content/Blueprints/PlayerController/BP_ToonTanksPlayerController.uasset",
 				"C:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset",
-				"C:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_EndGameWidget.uasset"
+				"C:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/Content/Blueprints/Widgets/WBP_EndGameWidget.uasset",
+				"C:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/Content/Blueprints/CameraShake/BP_HitCameraShake.uasset",
+				"C:/Users/crusc/Documents/GitHub/ToonTanks/ToonTanks/Content/Blueprints/CameraShake/BP_DeathCameraShake.uasset"
 			]
 		}
 	]
